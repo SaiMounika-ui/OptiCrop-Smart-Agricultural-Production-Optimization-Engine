@@ -1,63 +1,74 @@
-
-# Define Problem Statements
+# Empathy Map
 
 ## Project Title
 
 **OptiCrop: Smart Agricultural Production Optimization Engine**
 
-## Problem Statement
+## User Persona
 
-Agriculture plays a vital role in food production and economic development. However, farmers often face difficulties in selecting the most suitable crops due to changing environmental conditions, poor soil quality, and lack of scientific decision support.
-
-Incorrect crop selection results in:
-
-- Low agricultural productivity
-- Financial losses
-- Poor utilization of water resources
-- Excessive fertilizer consumption
-- Reduced soil fertility
-
-Traditional farming methods depend largely on experience rather than data-driven analysis, making crop selection unreliable under changing climatic conditions.
+**Primary User:** Farmer
 
 ---
 
-## Proposed Solution
+# Thinks
 
-The OptiCrop system utilizes Artificial Intelligence and Machine Learning to analyze agricultural parameters including:
-
-- Nitrogen (N)
-- Phosphorous (P)
-- Potassium (K)
-- Temperature
-- Humidity
-- pH
-- Rainfall
-- Seasonal conditions
-
-Based on these parameters, the system predicts the most suitable crop for cultivation.
+- Which crop will provide maximum profit?
+- Is the soil suitable for cultivation?
+- Will rainfall affect crop production?
+- How can I reduce farming risks?
 
 ---
 
-## Objectives
+# Feels
 
-- Improve crop selection accuracy.
-- Increase agricultural productivity.
-- Reduce crop failure risks.
-- Optimize natural resource utilization.
-- Promote sustainable farming.
-
----
-
-## Stakeholders
-
-- Farmers
-- Agricultural Researchers
-- Government Organizations
-- Agribusiness Companies
-- Policy Makers
+- Uncertain about crop selection.
+- Concerned about changing weather conditions.
+- Worried about financial losses.
+- Interested in improving crop productivity.
 
 ---
 
-## Expected Outcome
+# Says
 
-The system provides intelligent crop recommendations that help farmers make informed agricultural decisions and improve farming efficiency.
+- I need reliable crop recommendations.
+- I want to improve my farming income.
+- I need scientific guidance.
+- I want better agricultural planning.
+
+---
+
+# Does
+
+- Tests soil quality.
+- Monitors weather conditions.
+- Purchases seeds and fertilizers.
+- Consults agricultural experts.
+- Searches for farming solutions.
+
+---
+
+# Pain Points
+
+- Lack of proper agricultural guidance.
+- Unpredictable climate changes.
+- Poor crop productivity.
+- Excessive fertilizer costs.
+- Water scarcity.
+- Financial uncertainty.
+
+---
+
+# Gains
+
+- Accurate crop recommendations.
+- Better farming decisions.
+- Higher agricultural productivity.
+- Increased profitability.
+- Sustainable farming practices.
+- Efficient resource utilization.
+
+---
+
+## Conclusion
+
+The empathy mapping exercise helps understand the needs, challenges, and expectations of farmers. These insights enable the development of an intelligent crop recommendation system that addresses real agricultural problems and improves decision-making through machine learning.
