@@ -3,186 +3,145 @@
 <div align="center">
 
 # 🌱 OptiCrop
-### Smart Agricultural Production Optimization Engine
+## Smart Agricultural Production Optimization Engine
 
-*"Together we cultivate innovation through technology."*
+### *"Empowering Agriculture with Intelligence and Innovation"*
 
 ---
 
 </div>
 
-## 🎯 Team Overview
+# 🏆 Project Leadership
 
-Our team combines expertise in software development, machine learning, documentation, testing, and project management to build an intelligent agricultural recommendation system. Every member contributes to delivering a scalable and user-friendly solution for farmers.
+## 👩‍💼 Devi Reddy Sai Mounika (DRSM)
 
----
-
-# 👨‍💼 Leadership
-
-## 🌟 Shaik Abdul Mannan (SAM)
-
-**Role:** Team Lead
-
-📧 **Email:** shaikabdulmannan71@gmail.com
-
-### Responsibilities
-- Project Planning
-- Team Coordination
-- Task Allocation
-- System Integration
-- Project Review
-- Final Demonstration
-
----
-
-# 👩‍💻 Development Team
-
-## 🌸 Devi Reddy Sai Mounika (DRSM)
-
-**Role:** Team Member
+### 🌟 Team Lead
 
 📧 **Email:** chinnu10darshini@gmail.com
 
-### Contributions
-- Flask Backend Development
-- Machine Learning Integration
-- User Interface Development
-- GitHub Repository Management
-- Documentation
-- Testing
+### Responsibilities
+
+- 📌 Project Planning & Management
+- 🤝 Team Coordination
+- 🧠 Machine Learning Integration
+- 💻 Full Stack Development
+- 📖 Documentation & GitHub Management
+- 🧪 Project Testing
+- 🚀 Deployment & Final Presentation
 
 ---
 
-## 💻 Mahadev Bugide (MB)
+# 👨‍💻 Team Members
 
-**Role:** Team Member
+---
+
+## 👨‍💻 Mahadev Bugide (MB)
 
 📧 **Email:** 25ata05436@gpcet.ac.in
 
-### Contributions
-- Data Collection
-- Dataset Preparation
-- Feature Engineering
+### Responsibilities
+
+- Dataset Collection
 - Data Preprocessing
-- Model Evaluation
+- Data Analysis
+- Testing Support
 
 ---
 
-## 🎨 Akshaya Aavula (AA)
-
-**Role:** Team Member
+## 👩‍💻 Akshaya Aavula (AA)
 
 📧 **Email:** aavulaakshaya3@gmail.com
 
-### Contributions
+### Responsibilities
+
 - Requirement Analysis
-- UI Design
 - Documentation
-- Testing
+- UI Design Support
 - Presentation Preparation
 
 ---
 
-## 🤖 Shaik Mohammed Asif (SMA)
-
-**Role:** Team Member
+## 👨‍💻 Shaik Mohammed Asif (SMA)
 
 📧 **Email:** asifshaik93980@gmail.com
 
-### Contributions
-- Machine Learning Models
-- Model Training
-- Performance Analysis
+### Responsibilities
+
+- Machine Learning Model Training
+- Model Evaluation
+- Performance Optimization
 - Deployment Support
-- Bug Fixing
 
 ---
 
-# 📊 Team Hierarchy
+## 👨‍💻 Shaik Abdul Mannan (SAM)
+
+📧 **Email:** shaikabdulmannan71@gmail.com
+
+### Responsibilities
+
+- Research & Literature Survey
+- System Design Support
+- Documentation Review
+- Quality Assurance
+
+---
+
+# 🌟 Team Hierarchy
 
 ```text
-                         🌾 OptiCrop Team
+                           🌱 OptiCrop Project
 
-                          👨‍💼
-                  Shaik Abdul Mannan
-                      Team Lead
-                           │
-      ┌────────────────────┼────────────────────┐
-      │                    │                    │
-      │                    │                    │
-  👩‍💻 DRSM             👨‍💻 MB            👩‍💻 AA
-Sai Mounika         Mahadev Bugide    Akshaya Aavula
-                           │
-                     👨‍💻 SMA
-               Shaik Mohammed Asif
+                         👩‍💼 Team Lead
+                 Devi Reddy Sai Mounika (DRSM)
+                                │
+      ┌──────────────┬──────────────┬──────────────┬──────────────┐
+      │              │              │              │
+  👨‍💻 MB        👩‍💻 AA        👨‍💻 SMA       👨‍💻 SAM
+ Mahadev        Akshaya      Mohammed Asif   Abdul Mannan
 ```
 
 ---
 
-# 🛠 Skills Distribution
+# 📊 Skills Matrix
 
-| Area | Team Members |
-|-------|--------------|
-| Machine Learning | SAM, DRSM, SMA |
+| Area | Responsible Members |
+|------|----------------------|
+| Project Management | DRSM |
+| Machine Learning | DRSM, SMA |
 | Backend Development | DRSM |
-| Frontend Development | DRSM, AA |
-| Documentation | SAM, AA, DRSM |
-| Testing | AA, MB |
+| Frontend Development | DRSM |
 | Dataset Preparation | MB |
-| Git & GitHub | DRSM |
-| Deployment | SAM, SMA |
+| Documentation | DRSM, AA, SAM |
+| Testing | MB, AA |
+| Deployment | DRSM, SMA |
 
 ---
 
-# 📅 Collaboration Workflow
+# 🤝 Team Collaboration
 
-```text
-Idea
- │
- ▼
-Requirement Analysis
- │
- ▼
-Dataset Collection
- │
- ▼
-Machine Learning
- │
- ▼
-Web Development
- │
- ▼
-Testing
- │
- ▼
-Documentation
- │
- ▼
-Deployment
-```
+| Member | Primary Contribution |
+|--------|-----------------------|
+| 👩‍💼 **DRSM** | Leadership, Development, ML, GitHub |
+| 👨‍💻 **MB** | Data Collection & Analysis |
+| 👩‍💻 **AA** | Documentation & UI Support |
+| 👨‍💻 **SMA** | Machine Learning & Optimization |
+| 👨‍💻 **SAM** | Research & Quality Assurance |
 
 ---
 
-# 🤝 Team Values
+# 🚀 Our Mission
 
-🌱 Innovation
-
-🤝 Collaboration
-
-📈 Continuous Learning
-
-💡 Problem Solving
-
-🚀 Quality First
+To develop an intelligent agricultural recommendation platform that assists farmers in selecting the most suitable crops using Machine Learning, soil analysis, and environmental parameters while ensuring scalability, usability, and accuracy.
 
 ---
 
 <div align="center">
 
-## 🌟 "One Team • One Vision • Smarter Agriculture"
+## 🌾 **"Together We Build Smarter Agriculture for a Better Tomorrow."**
 
 **OptiCrop – Smart Agricultural Production Optimization Engine**
 
-Made with ❤️ by Team OptiCrop
+Made with ❤️ by **Team OptiCrop**
 
 </div>
